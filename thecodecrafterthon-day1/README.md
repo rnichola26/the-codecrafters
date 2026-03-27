@@ -5,9 +5,8 @@ This tool was built out of the void from the 9 days coding drill.
 **How to use this wonderful tool**
 
 clone the repo:
-```
-bash
-git clone https://github.com/the-codecrafters/thecodecrafterthon-day1
+``` bash
+git clone https://github.com/rnichola26/the-codecrafters.git
 # cd to the directory
 cd thecodecrafterthon-day1
 # run the program
