@@ -5,10 +5,10 @@ This tool was built out of the void from the 9 days coding drill.
 **How to use this wonderful tool**
 
 clone the repo:
-``` bash
+```bash
 git clone https://github.com/rnichola26/the-codecrafters.git
 # cd to the directory
-cd thecodecrafterthon-day1
+cd the-codecrafters && thecodecrafterthon-day1
 # run the program
 go run main.go
 # it runs and prompt you on how to use it
@@ -26,8 +26,7 @@ help -->  All the commands
 quit -->  Quits the program
 
 **Complete demo of how it works**
-```
-bash
+```bash
  thecodecrafterthon-day1 git:(master) ✗ go run .
 Welcome to the ProGuy basic CLI calculator
 
@@ -92,5 +91,7 @@ Thanks for using the ProGuy's basic calculator program
 ```
 
 I will be adding more tests and edge cases as I improve my tool.
+
+---
 
 Built with ❤️ using Go
